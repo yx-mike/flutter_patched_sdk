@@ -17,6 +17,7 @@ flutter_patched_sdk/platform_strong.dill: \
   ../../flutter/lib/ui/semantics.dart \
   ../../flutter/lib/ui/text.dart \
   ../../flutter/lib/ui/ui.dart \
+  ../../flutter/lib/ui/wd_ext_api.dart \
   ../../flutter/lib/ui/window.dart \
   ../../third_party/dart/.dart_tool/package_config.json \
   ../../third_party/dart/pkg/_fe_analyzer_shared/lib/src/base/syntactic_entity.dart \
